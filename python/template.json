@@ -1,0 +1,6 @@
+{
+    "task":{
+        "program":["main.py", "debug.py", "Makefile"],
+        "submit":"main.py"
+    }
+}
